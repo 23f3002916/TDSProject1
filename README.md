@@ -1,2 +1,3 @@
-# TDSProject1
-I have created a project for the tools in data science course i am in
+- This script fetches GitHub users in Sydney with over 100 followers and their repositories.
+- The data reveals a concentration of popular repositories in web development and machine learning.
+- Developers should consider open-sourcing more projects, as this increases visibility and follower engagement.
